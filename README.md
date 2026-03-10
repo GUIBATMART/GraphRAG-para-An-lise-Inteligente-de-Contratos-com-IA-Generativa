@@ -28,8 +28,3 @@ A solução demonstra como a combinação de RAG com grafos de conhecimento pode
 - Knowledge Graph  
 - Processamento de Documentos  
 
----
-
-## 🏗 Arquitetura do Sistema
-
-Fluxo do sistema:
